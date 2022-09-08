@@ -1,3 +1,7 @@
 h1 {
-    color: blue
+    text-align : center;
+    color : blue
+}
+body {
+    background-color:aqua;
 }
